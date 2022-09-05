@@ -1,5 +1,4 @@
 import random
-from CardsGame  import Hand
 from CardsGame.Card  import Card
 from CardsGame.Chips import Chips
 suits = ('Hearts', 'Diamonds', 'Spades', 'Clubs')
